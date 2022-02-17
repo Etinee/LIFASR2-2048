@@ -1,0 +1,64 @@
+body {
+  background: #ffffff;
+  width: 90%;
+  margin: auto;
+}
+h1 {color: #ccabcc; }
+h2 {color: #8bb8a8; }
+h3 {
+  color: #8bb8a8;
+  text-align: justify;
+  text-align: center;
+  font-size: 20;
+}
+
+.regle {
+  background-color: #fdf5bf;
+  border: 2px solid #fdf5bf;
+  border-radius: 15px;
+  text-align: justify;
+  text-align: center;
+  margin-top: 5px;
+	margin-bottom: 5px;
+	padding-top: 0px;
+	padding-bottom: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+table {
+  border-radius: 5px;
+  border: 2px solid #000000;
+  margin:auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+
+}
+
+td {
+  background-color: #92d1c3;
+  border-radius: 5px;
+  border: 2px solid #b47eb3;
+  text-align: center;
+  width: 100px;
+  height: 100px;
+}
+
+input {
+  background-color: #ffd6ff;
+  border: solid #ffd6ff;
+  border-radius: 5px;
+  margin-bottom: 5px;
+
+}
+
+.fin {
+    margin-bottom: 100px;
+}
+
+.logs {
+  if(htmlspecialchars($line)=="Nouvelle Partie")
+  {
+
+  }
+}
